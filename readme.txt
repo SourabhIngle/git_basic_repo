@@ -18,3 +18,4 @@ mv {file-1.txt file-2.exe foldername/}=> 			move file to this folder
 
 git status =>							For check any changes on you file before commit.
 
+git reset =>        This is for unstageing pervious commit.
