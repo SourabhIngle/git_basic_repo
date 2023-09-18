@@ -20,4 +20,10 @@ git status =>							For check any changes on you file before commit.
 
 git checkout -b {First_Branch}  =>				Creating new branch (branch name is First_Brancg)
 
-checking git reset
+git reset  =>							Undoes changes to files in the woriking directory.Resetting lets you
+								clean up or completely remove changes that have not been pushed to 
+								to public repositroy
+
+git commit --amend	=> 					It is using for edit the changes in commit.
+
+git stash   =>							To secure our modification.
